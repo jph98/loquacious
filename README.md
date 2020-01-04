@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/jph98/loquacious/blob/master/icon-web.png "Logo")
+![Logo](./icon-web.png "Logo")
 
 
 ## Loquacious
